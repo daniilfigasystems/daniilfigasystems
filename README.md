@@ -8,7 +8,7 @@ If you find my projects helpful and want to support my development journey, feel
 
 ### Bitcoin (BTC)
 * **Wallet Address:** `bc1qpq09dzqusw5jhkm08j6vkj5634wwyc8wfjwwc0`![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-
-
+### Monero (XMR)
+* **Wallet Address:** '42DuLmmDfXLKSeVtF8wcBfJ2WL7wKqeLaJPPtXz5YNL2MBgW5Vau4uidj7sYhFptAtXYkcUVMH6X9gmLRy3uuqvi7otjFey'![Monero Badge](https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 ---
 *Thank you for your support!*
