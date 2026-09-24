@@ -1,6 +1,6 @@
 # Hi there, I'm FigaSystems! 👋
 
-Welcome to my GitHub profile! I'm a developer working on cool bare metal projects and open-source software.
+Welcome to my GitHub profile! I'm a developer working on cool bare metal projects and open-source software.<br\>
 I like UNIX, C and assembly language.
 
 ## ☕ Support My Work
