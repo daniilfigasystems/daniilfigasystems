@@ -8,7 +8,8 @@ If you find my projects helpful and want to support my development journey, feel
 
 ### Bitcoin (BTC)
 * **Wallet Address:** `bc1qpq09dzqusw5jhkm08j6vkj5634wwyc8wfjwwc0`
-* ![BTC Badge]([https://shields.io](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white))
+![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 
 ---
 *Thank you for your support!*
