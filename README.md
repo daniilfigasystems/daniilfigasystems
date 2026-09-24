@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm FigaSystems! 👋
 
-<!--
-**daniilfigasystems/daniilfigasystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer working on cool bare metal projects and open-source software.
 
-Here are some ideas to get you started:
+## ☕ Support My Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you find my projects helpful and want to support my development journey, feel free to drop a tip! 
+
+### Bitcoin (BTC)
+* **Wallet Address:** `bc1qpq09dzqusw5jhkm08j6vkj5634wwyc8wfjwwc0`
+* ![BTC Badge]([https://shields.io](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white))
+
+---
+*Thank you for your support!*
