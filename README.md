@@ -1,17 +1,15 @@
 # Hi there, I'm FigaSystems! 👋
 
 Welcome to my GitHub profile! I'm a developer working on cool bare metal projects and open-source software.<br>
-I like UNIX, C and assembly language.
+I like Unix, C and assembly language.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=daniilfigasystems&layout=donut&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=daniilfigasystems&layout=donut&langs_count=4&theme=dark_github)
+## 🛠️ Currently developing
 
-## My projects
+**[rvunix](https://github.com/daniilfigasystems/rvunix)** — a Unix-like research operating system written in **RISC-V assembly** (featuring VM, basic allocator, userspace, and traps).
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=daniilfigasystems&repo=daniilfigasystems%2Frvunix&description_lines_count=1&theme=dark_github_repocard)](https://github.com/daniilfigasystems/rvunix)
+**[m68kpc](https://github.com/daniilfigasystems/m68kpc)** — a **Motorola 68000** based computer (featuring DMA, IDE, keyboard controller, interrupt controller, UART and timer).
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=daniilfigasystems&repo=daniilfigasystems%2Fm68kpc&description_lines_count=1&theme=dark_github_repocard)](https://github.com/daniilfigasystems/m68kpc)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=daniilfigasystems&repo=daniilfigasystems%2Fmips_emu&description_lines_count=1&theme=dark_github_repocard)](https://github.com/daniilfigasystems/mips_emu)
+**[mips_emu](https://github.com/daniilfigasystems/mips_emu)** — **MIPS I/II** emulator (featuring MIPS I/II instruction set, basic interrupts).
 
 ## ☕ Support My Work
 
