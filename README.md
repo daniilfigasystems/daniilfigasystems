@@ -5,11 +5,11 @@ I like Unix, C and assembly language.
 
 ## 🛠️ Currently developing
 
-**[rvunix](https://github.com/daniilfigasystems/rvunix)** — a Unix-like research operating system written in **RISC-V assembly** (featuring VM, basic allocator, userspace, and traps).
+**[rvunix](https://github.com/daniilfigasystems/rvunix)** — a Unix-like research operating system written in **RISC-V assembly** (featuring VM, basic allocator, userspace and traps).
 
 **[m68kpc](https://github.com/daniilfigasystems/m68kpc)** — a **Motorola 68000** based computer (featuring DMA, IDE, keyboard controller, interrupt controller, UART and timer).
 
-**[mips_emu](https://github.com/daniilfigasystems/mips_emu)** — **MIPS I/II** emulator (featuring MIPS I/II instruction set, basic interrupts).
+**[mips_emu](https://github.com/daniilfigasystems/mips_emu)** — a **MIPS I/II** emulator (featuring MIPS I/II instruction set, basic interrupts).
 
 ## ☕ Support My Work
 
