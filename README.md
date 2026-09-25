@@ -1,4 +1,4 @@
-# Hi there, I'm FigaSystems! 👋
+# Hi there, I'm Daniil! 👋
 
 Welcome to my GitHub profile! I'm a developer working on cool bare metal projects and open-source software.<br>
 I like Unix, C and assembly language.
